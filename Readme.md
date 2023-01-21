@@ -1,4 +1,4 @@
-# Groupe 3 Outils décisionnel
+# Groupe 8 Outils décisionnel
 
 ## Liste des membres du groupe
 
@@ -10,4 +10,4 @@
 
 il s'agit de mettre en oeuvre un systeme decisionnel de l'entreprise Distrisys en suivant les recommendations des fichiers (etude de cas debut et fin)
 
-## Depot GitHub (https://github.com/devhyacinthe/Groupe3-Outils_decisionnel)
+## Depot GitHub (https://github.com/devhyacinthe/Groupe8-Outils_decisionnel)
